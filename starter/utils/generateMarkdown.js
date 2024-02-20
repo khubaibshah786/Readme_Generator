@@ -37,13 +37,13 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 
-## ReadME
-Github profile: ${data.username}
 
 ## Questions
 For questions about this project, please contact [${data.username}](https://github.com/${data.username}) at ${data.email}.
 If you have additional questions, you can reach out via email at ${data.email}.
 
+## ReadME
+GitHub profile: [${data.username}](https://github.com/${data.username})
 `;
 }
 
