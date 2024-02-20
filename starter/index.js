@@ -43,12 +43,16 @@ const questions = [
     },
     {
         type: "input",
-        name: "questions",
-        message: "Please provide the questions for your project:"
+        name: "username",
+        message: "Please provide your GitHub username:"
     },
-    // Add more questions for other sections of the README (e.g., installation, usage, license, etc.)
-];
-
+    {
+        type: "input",
+        name: "email",
+        message: "Please provide a email for any Questions on the project:"
+    },
+   
+]
 // function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {

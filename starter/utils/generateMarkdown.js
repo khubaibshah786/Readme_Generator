@@ -1,7 +1,4 @@
-// generateMarkdown.js
-
 function generateLicenseBadge(license) {
-  // Example: Generate badge URL for MIT license
   return `https://img.shields.io/badge/license-${encodeURIComponent(license)}-brightgreen`;
 }
 
@@ -23,6 +20,7 @@ ${data.description}
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [ReadME](#readme)
 
 ## Installation
 ${data.installation}
@@ -31,7 +29,7 @@ ${data.installation}
 ${data.usage}
 
 ## License
-This application is covered under the ${data.license} license. For more information, please see the [license](#${data.license}) section.
+This application is covered under the ${data.license} license.
 
 ## Contributing
 ${data.contributing}
@@ -39,8 +37,13 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 
+## ReadME
+Github profile: ${data.username}
+
 ## Questions
 For questions about this project, please contact [${data.username}](https://github.com/${data.username}) at ${data.email}.
+If you have additional questions, you can reach out via email at ${data.email}.
+
 `;
 }
 
