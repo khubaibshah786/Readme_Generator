@@ -3,7 +3,7 @@
 ![javascript](https://img.shields.io/badge/javascript-5-green?style=style=flat&logo=javascript&logoColor=green)
 
 ## Description
-As a developer, I wanted a README generator so that I could quickly create a professional README for a new project. This command-line application accepts user input and generates a high-quality, professional README.md file for the project repository.
+As a developer, I wanted a README generator so that I could quickly create a professional README for a new project. This command-line application accepts user input and generates a high-quality, professional README.md file for the project repository. MAKE SURE YOU ARE IN STARTER FOLDER BEFORE RUNNING NODE INDEX.JS COMMAND
 
 ## Table of Contents
 - [Description](#description)
