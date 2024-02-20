@@ -75,5 +75,6 @@ To downlaod Source Code:
 
  ## Deployed application Video
 
+- If it states 'video is still being processed', you can download the video instead
  - https://drive.google.com/file/d/1cDzz7B-apTrKbvzvEQYB_vjBN2kwSbiT/view?usp=sharing
 
